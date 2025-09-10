@@ -1,4 +1,4 @@
-# once monorepo
+# Cathedral monorepo
 
 This template is for creating a monorepo with shadcn/ui.
 
